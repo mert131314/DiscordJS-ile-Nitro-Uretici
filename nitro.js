@@ -58,6 +58,6 @@ function spamla(){
 
 
 });
-client.login("TOKENİNİZ");
+client.login("97870387488399769");
     
     
